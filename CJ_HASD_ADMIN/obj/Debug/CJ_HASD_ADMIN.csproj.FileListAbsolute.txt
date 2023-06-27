@@ -1,0 +1,16 @@
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\bin\Debug\CJ_HASD_ADMIN.exe.config
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\bin\Debug\CJ_HASD_ADMIN.exe
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\bin\Debug\CJ_HASD_ADMIN.pdb
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.csproj.AssemblyReference.cache
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.AddMovie.resources
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.AddTheater.resources
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.AllMovie.resources
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.Home.resources
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.Login.resources
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.Movie.resources
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.Properties.Resources.resources
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.Theater.resources
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.csproj.GenerateResource.cache
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.csproj.CoreCompileInputs.cache
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.exe
+D:\Winform C#\CJ_HASD_ADMIN\CJ_HASD_ADMIN\obj\Debug\CJ_HASD_ADMIN.pdb
